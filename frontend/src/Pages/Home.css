@@ -1,0 +1,9 @@
+.Home-Page {
+  width: 100%;
+  min-height: 91.5vh;
+  max-height: auto;
+}
+.homeImg {
+  width: 500px;
+  height: 500px;
+}
